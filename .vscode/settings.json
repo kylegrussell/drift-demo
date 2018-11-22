@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d44a9f59-2909-4801-aa2a-d346875a8f07/resourceGroups/hello-drift/providers/Microsoft.Web/sites/hello-drift",
+    "appService.deploySubpath": ""
+}
